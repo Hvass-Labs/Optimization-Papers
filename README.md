@@ -21,3 +21,8 @@ This is an archive of my research papers and PhD thesis on optimization.
 - [SwarmOps for Python](https://github.com/Hvass-Labs/swarmops) and [other languages](https://github.com/Hvass-Labs/swarmops-other) was used for the research in my PhD thesis and research papers.
 
 - [MetaOps](https://github.com/Hvass-Labs/MetaOps) is my newest and most advanced research on optimization written as Python Notebooks.
+
+
+## Videos
+
+- [Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsl1877BS8m3yt8t_wq2IWji) with my lectures on Meta-Optimization.
